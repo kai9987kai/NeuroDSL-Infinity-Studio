@@ -17,7 +17,7 @@ Write an architecture like:
 
 ```text
 [64, 128], fractal: [128, 2], gqa: [128, 8, 2], moe: [128, 8], dropout: [0.1], [128, 10]
-````
+
 
 …and the studio will:
 
