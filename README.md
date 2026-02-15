@@ -1,4 +1,3 @@
-````markdown
 # NeuroDSL Infinity Studio (v4.0)
 
 A **GUI-first neural architecture sandbox** that lets you describe modern PyTorch networks in a compact **DSL (Domain Specific Language)**, compile them into a runnable model, **train** (synthetic or CSV), **run inference** (single or batch), **visualize layer stats**, and **export** (PTH / ONNX / TorchScript).
@@ -15,7 +14,6 @@ A **GUI-first neural architecture sandbox** that lets you describe modern PyTorc
 ### ✅ NeuroDSL → PyTorch compiler
 Write an architecture like:
 
-```text
 [64, 128], fractal: [128, 2], gqa: [128, 8, 2], moe: [128, 8], dropout: [0.1], [128, 10]
 
 
